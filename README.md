@@ -1,1 +1,1 @@
-## ⚙ Este código tem como intuito apresentar o calculo do total comprado e o valor de desconto caso a compra do cliente atinja um valor acima de R$ 200,00. Se a compra for maior ou igual a R$ 200,00, o cliente receberá um desconto de 8% no valor da compra.
+## ⚙ Alguns dos códigos realizados durante as aulas na faculdade 1º Semestre.
